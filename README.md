@@ -1,0 +1,1 @@
+# de.jokap.warehouse.entities
